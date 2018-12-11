@@ -1,0 +1,7 @@
+C:\Проекты MVS\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Проекты MVS\lab1\lab1\bin\Debug\lab1.exe
+C:\Проекты MVS\lab1\lab1\bin\Debug\lab1.pdb
+C:\Проекты MVS\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Проекты MVS\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Проекты MVS\lab1\lab1\obj\Debug\lab1.exe
+C:\Проекты MVS\lab1\lab1\obj\Debug\lab1.pdb
